@@ -4,12 +4,11 @@ This project implements Conway's Game of Life in Java following SOLID principles
 
 ## ▶️ How to Run
 
-1. Navigate to the `src` directory containing the `com` folder.
-2. Compile:
+1. Compile:
    ```bash
    javac com/chargepoint/gof/**/*.java
    ```
-3. Run:
+2. Run:
    ```bash
    java com.chargepoint.gof.GameOfLife
    ```
