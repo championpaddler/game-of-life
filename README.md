@@ -1,17 +1,22 @@
 # Game of Life - Coding Challenge
 
-This project implements Conway's Game of Life in Java following SOLID principles.
+This project implements Game of Life in Java following SOLID principles. The project uses minilist configuration to run the application.
+
+## How to setup the repo:
+
+Clone the repo using:
+
+```bash
+git clone https://github.com/championpaddler/game-of-life
+```
 
 ## ▶️ How to Run
 
-1. Compile:
-   ```bash
-   javac com/chargepoint/gof/**/*.java
-   ```
-2. Run:
-   ```bash
-   java com.chargepoint.gof.GameOfLife
-   ```
+Run the following Command from root directory of project:
+
+```bash
+javac com/chargepoint/gof/**/*.java && java com.chargepoint.gof.GameOfLife
+```
 
 ## 🧪 Demonstration
 
